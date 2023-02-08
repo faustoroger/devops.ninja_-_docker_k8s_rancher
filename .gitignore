@@ -56,4 +56,4 @@ id_rsa*
 kube_config*
 
 # ignore k3s infra created in aws
-aws/
+infra/*
