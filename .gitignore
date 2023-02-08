@@ -54,3 +54,6 @@ terraform.rc
 # known files created by terraform modules
 id_rsa*
 kube_config*
+
+# ignore k3s infra created in aws
+aws/
